@@ -11,10 +11,15 @@ Target: Gesture label
 
 ⚙️ Technologies Used
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Scikit-learn
 
 🔄 Project Workflow
