@@ -39,17 +39,23 @@ Predict gesture from sample input
 Random Forest Classifier
 
 📊 Results
+
 Accuracy: ~18–20%
 
 Dataset contains multiple gesture classes (0–35), making classification complex
 
 📈 Output
+
 Confusion Matrix Visualization
+
 Classification Report
+
 Sample Prediction
 
 🚀 How to Run
+
 pip install pandas numpy matplotlib seaborn scikit-learn
+
 python emg_model.py
 
 📌 Conclusion
