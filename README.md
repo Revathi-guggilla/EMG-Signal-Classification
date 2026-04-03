@@ -4,9 +4,13 @@ EMG Signal Classification for Prosthetic Control 🤖
 This project focuses on classifying EMG (Electromyography) signals to recognize hand gestures such as Open, Close, and Grip. This is useful for prosthetic hand control systems.
 
 📂 Dataset
+
 Source: Kaggle
+
 Dataset Name: EMG Dataset for Hand Gesture Recognition
+
 Features: EMG signal channels (channel1–channel8)
+
 Target: Gesture label
 
 ⚙️ Technologies Used
@@ -36,6 +40,7 @@ Random Forest Classifier
 
 📊 Results
 Accuracy: ~18–20%
+
 Dataset contains multiple gesture classes (0–35), making classification complex
 
 📈 Output
